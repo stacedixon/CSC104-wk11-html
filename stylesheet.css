@@ -1,0 +1,40 @@
+/* TODO: Change global font-family settings to Poppins*/
+
+ /* Global heading settings*/
+ header {
+    text-align: center;
+    padding-left: 100px;
+}
+
+/* Style the links inside the navigation bar - w3schools top navigation bar tutorials */
+.topnav a {
+    float: right;
+    color: #D6B1C1;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+/* Change the color of links on hover - w3schools top navigation bar tutorials */
+.topnav a:hover {
+    color: #ddd;
+  }
+
+  /* Decide if adding a color to the active/current link- w3schools top navigation bar css tutorials
+.topnav a.active {
+    color: #000000;
+  }*/
+
+  /* Make the objective images align next to one another side by side in 3s above objectives
+  TODO: center align */
+.parent{
+    display:flex;
+    gap: 5px;
+}
+ /* Footer settings */
+footer{
+    background-color: #D6B1C1;
+    color: white;
+    text-align: center;
+    padding-left: 100px;
+}
