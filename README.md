@@ -1,6 +1,7 @@
 # CSC104-wk11-html
 BoardsHome.html is the site for CSC104 course final
 This site consists of a home page with a right upper menu navigation bar, logo on the left, a centered heading and main image, followed by two rows of three smaller images with links below that click to each objective's own page with at least two images and/or videos and text. 
+
 More details:
 Final Project: HTML Coding 1
 Overview
